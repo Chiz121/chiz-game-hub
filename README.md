@@ -64,7 +64,7 @@ Counter-Strike 1.6'dan bugüne FPS oyunları oynayan biri olarak (Valorant, CS2 
 
 ## 🆕 Yenilikler
 
-### v1.3.0 — Yeni Modlar & Rapor Sistemi
+### v1.2.0 — Yeni Modlar & Rapor Sistemi
 
 **🎯 3 Yeni Aim Modu:**
 - **Track+Click** — Hareket eden hedefe tıkla (Track + Click)
